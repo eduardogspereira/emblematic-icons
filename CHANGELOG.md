@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/eduardogspereira/emblematic-icons/compare/v1.0.0...v1.1.0) (2020-08-26)
+
+
+### Features
+
+* improve readme ([8fb8398](https://www.github.com/eduardogspereira/emblematic-icons/commit/8fb8398f56a37b5dc1f601b2a3848d6586320dd5))
+
 ## [1.0.0](https://www.github.com/eduardogspereira/emblematic-icons/compare/v0.10.1...v1.0.0) (2020-08-26)
 
 
